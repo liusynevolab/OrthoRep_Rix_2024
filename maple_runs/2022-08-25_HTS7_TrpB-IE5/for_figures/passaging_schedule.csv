@@ -1,0 +1,51 @@
+date,passage number,media,notes,Trp fraction,indole
+6/6/2022,P1,SC -L,"miniprepped, glycerol stocked as GR-96-143",1,0
+6/8/2022,P2,SC -L 1/30 W + 400 μM indole,,1/30,400
+6/11/2022,P3,SC -L 1/30 W + 400 μM indole,miniprepped,1/30,400
+6/13/2022,P4,SC -L 1/60 W + 400 μM indole,,1/60,400
+6/15/2022,P5,SC -L,miniprepped,1,0
+6/16/2022,P6,SC -L 1/60 W + 400 μM indole,,1/60,400
+6/18/2022,P7,SC -L 1/90 W + 400 μM indole,miniprepped,1/90,400
+6/20/2022,P8,SC -L 1/120 W + 400 μM indole,,1/120,400
+6/22/2022,P9,SC -LW + 400 μM indole,"miniprepped, glycerol stocked as GR-96-144",0,400
+6/24/2022,P10,SC -LW + 200 μM indole,,0,200
+6/26/2022,P11,SC -LW + 100 μM indole,miniprepped,0,100
+6/29/2022,P12,SC -LW + 50 μM indole,,0,50
+7/1/2022,P13,SC -LW + 25 μM indole,miniprepped,0,25
+7/3/2022,P14,SC -LW + 12.5 μM indole,,0,12.5
+7/5/2022,P15,SC -LW + 12.5 μM indole,miniprepped,0,12.5
+7/7/2022,P16,SC -L,,1,0
+7/9/2022,P17,SC -LW + 12.5 μM indole,miniprepped,0,12.5
+7/11/2022,P18,SC -L,,1,0
+7/13/2022,P19,SC -LW + 12.5 μM indole,"miniprepped, glycerol stocked as GR-96-150",0,12.5
+9/09/2022,P20,SC -L,revived from glycerol stock GR-96-150,1,0
+9/11/2022,P21,SC -LW + 200 μM indole,,0,200
+9/13/2022,P22,SC -LW + 100 μM indole,,0,100
+9/15/2022,P23,SC -LW + 50 μM indole,,0,50
+9/16/2022,P24,SC -LW + 50 μM indole,,0,50
+9/18/2022,P25,SC -LW + 25 μM indole,,0,25
+9/20/2022,P26,SC -LW + 25 μM indole,miniprepped,0,25
+9/22/2022,P27,SC -LW + 400 μM indole,,0,400
+9/25/2022,P28,SC -LW + 400 μM indole,,0,400
+9/27/2022,P29,SC -LW + 400 μM indole,,0,400
+9/30/2022,P30,SC -LW + 400 μM indole,,0,400
+10/1/2022,P31,SC -LW + 400 μM indole,miniprepped,0,400
+10/3/2022,P32,SC -LW + 400 μM indole,glycerol stocked as GR-96-151,0,400
+10/4/2022,P33,SC -LW + 400 μM indole,,0,400
+10/6/2022,P34,SC -LW + 200 μM indole,,0,200
+10/7/2022,P35,SC -LW + 100 μM indole,,0,100
+10/9/2022,P36,SC -LW + 50 μM indole,,0,50
+10/11/2022,P37,SC -LW + 25 μM indole,,0,25
+10/12/2022,P38,SC -LW + 12.5 μM indole,miniprepped,0,12.5
+10/14/2022,P39,SC -LW + 12.5 μM indole,,0,12.5
+10/16/2022,P40,SC -LW + 12.5 μM indole,,0,12.5
+10/18/2022,P41,SC -L,glycerol stocked at GR-96-152,1,0
+10/20/2022,P42,SC -LW + 12.5 μM indole,,0,12.5
+10/21/2022,P43,SC -L,,1,0
+10/23/2022,P44,SC -LW + 12.5 μM indole,miniprepped,0,12.5
+10/25/2022,P45,SC -LW + 400 μM indole,,0,400
+10/26/2022,P46,SC -LW + 400 μM indole,,0,400
+10/28/2022,P47,SC -LW + 400 μM indole,,0,400
+11/2/2022,P48,SC -LW + 400 μM indole,"moved into fridge after 3 days in incubator, passaged after 2 more days in fridge",0,400
+11/4/2022,P49,SC -LW + 400 μM indole,,0,400
+11/6/2022,P50,SC -LW + 400 μM indole,miniprepped and glycerol stocked,0,400

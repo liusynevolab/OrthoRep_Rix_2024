@@ -1,0 +1,8 @@
+,barcode_type,
+barcodeGroup,fwd,rvs
+P26,bc1,bc1
+P31,bc1,bc2
+P38,bc1,bc3
+P44,bc2,bc1
+P50,bc2,bc2
+pGR438-ctrl,bc2,bc3
