@@ -1,0 +1,176 @@
+LOCUS       GR326_-_pUC-FDP-leu2*(p 4530 bp ds-DNA     circular     15-JUN-2019
+DEFINITION  .
+SOURCE      Cloning vector pUC19                                               
+  ORGANISM  Cloning vector pUC19 other sequences; artificial sequences;        
+            vectors.
+FEATURES             Location/Qualifiers
+     -35_signal      3222..3227
+                     /label="RNAI promoter (clockwise); TTGAAG"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     misc_feature    165..198
+                     /label="pGKL1/ORF1"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     -35_signal      complement(4500..4505)
+                     /label="bla promoter (counter-clockwise); TTCAAA"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     CDS             complement(3575..4435)
+                     /label="bla CDS"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     CDS             2367..2521
+                     /label="Recombination flank from ORF4 pGKL1"
+                     /ApEinfo_revcolor=#993366
+                     /ApEinfo_fwdcolor=#993366
+     -10_signal      complement(3378..3383)
+                     /label="RNAII promoter (counter-clockwise); CGTAAT"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     CDS             175..198
+                     /label="TP-Polymerase"
+                     /ApEinfo_revcolor=#993366
+                     /ApEinfo_fwdcolor=#993366
+     -10_signal      3244..3249
+                     /label="RNAI promoter (clockwise); GCTACA"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     sig_peptide     complement(4367..4435)
+                     /label="bla sig_peptide"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     -35_signal      complement(3399..3404)
+                     /label="RNAII promoter (counter-clockwise); TTGAGA"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    175..198
+                     /label="UTR?"
+                     /ApEinfo_revcolor=#ff120e
+                     /ApEinfo_fwdcolor=#ff120e
+     -10_signal      complement(4479..4484)
+                     /label="bla promoter (counter-clockwise); GAGACA"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     mutation        1566..1568
+                     /label="Mutation"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     rep_origin      complement(2816..3404)
+                     /label="pMB1 origin of replication (counter-clockwise)(RNAII -35 to RNA/DNA switch point)"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     5'UTR           1463..1562
+                     /label="UTR\from\2ORF1"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     CDS             298..1392
+                     /label="leu2*"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     CDS             1563..2366
+                     /label="URA3"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     gene            complement(3575..4435)
+                     /label="bla gene"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     misc_feature    199..297
+                     /label="UTR\from\p2ORF10"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    complement(934..939)
+                     /label="GAATTC->AAATTC"
+                     /ApEinfo_revcolor=#ff0000
+                     /ApEinfo_fwdcolor=#ff0000
+     misc_RNA        3258..3365
+                     /label="RNAI transcript"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     misc_feature    108..108
+                     /label="G in source"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_RNA        complement(2816..3368)
+                     /label="RNAII transcript (complementary strand)"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+ORIGIN
+        1 GGGTTCCGCG CACATTTCCC CGAAAAGTGC CACCTGACGT CTAAGAAACC ATTATTATCA
+       61 TGACATTAAC CTATAAAAAT AGGCGTATCA CGAGGCCCTT TCGTCTCaCG CGTTTCGGTG
+      121 ATGACGGTGA AAACCTCTGA CACATGCAGC TCCCGGAGAC Gagtactata atatatgaat
+      181 tacattatta atttaaaaga tacctataca taggaagatc tatagaaaca aaaagattaa
+      241 taactttcaa atatcagaaa aatgtagaaa tatatgataa gctcatagac atgtaaaatg
+      301 tttgttccta agaagatcgt cgttttgcca ggtgaccacg ttggtcaaga aatcacagcc
+      361 gaagccatta aggttcttaa agctatttct gatgttcgtt ccaatgtcaa gttcgatttc
+      421 gaaaatcatt taattggtgg tgctgctatc gatgctacag gtgttccact tccagatgag
+      481 gcgctggaag cctccaagaa ggctgatgcc gttttgttag gtgctgtggg tggtcctaaa
+      541 tggggtaccg gtagtgttag acctgaacaa ggtttactaa aaatccgtaa agaacttcaa
+      601 ttgtacgcca acttaagacc atgtaacttt gcatccgact ctcttttaga cttatctcca
+      661 atcaagccac aatttgctaa aggtactgac ttcgttgttg tcagagaatt agtgggaggt
+      721 atttactttg gtaagagaaa ggaagacgat ggtgatggtg tcgcttggga tagtgaacaa
+      781 tacaccgttc cagaagtgca aagaatcaca agaatggccg ctttcatggc cctaTAAcat
+      841 gagccaccat tgcctatttg gtccttggat aaagctaatg ttttggcctc ttcaagatta
+      901 tggagaaaaa ctgtggagga aaccatcaag aacgaatttc ctacattgaa ggttcaacat
+      961 caattgattg attctgccgc catgatccta gttaagaacc caacccacct aaatggtatt
+     1021 ataatcacca gcaacatgtt tggtgatatc atctccgatg aagcctccgt tatcccaggt
+     1081 tccttgggtt tgttgccatc tgcgtccttg gcctctttgc cagacaagaa caccgcattt
+     1141 ggtttgtacg aaccatgcca cggttctgct ccagatttgc caaagaataa ggtcaaccct
+     1201 atcgccacta tcttgtctgc tgcaatgatg ttgaaattgt cattgaactt gcctgaagaa
+     1261 ggtaaggcca ttgaagatgc agttaaaaag gttttggatg caggtatcag aactggtgat
+     1321 ttaggtggtt ccaacagtac caccgaagtc ggtgatgctg tcgccgaaga agttaagaaa
+     1381 atccttgctt aaaaagattc tcttttttta tgatatttgt acataaactt tataaatgaa
+     1441 attcataata gaaacgccgc ggtttttcgc cggagtcaat taggtcatac ttttctatat
+     1501 aatccaaatc ccaaaaatca attgaatgat tcttaatatg atttaatagt ttatgattat
+     1561 aaatgcataa agctacatat aaggaacgtg ctgctactca tcctagtcct gttgctgcca
+     1621 agctatttaa tatcatgcac gaaaagcaaa caaacttgtg tgcttcattg gatgttcgta
+     1681 ccaccaagga attactggag ttagttgaag cattaggtcc caaaatttgt ttactaaaaa
+     1741 cacatgtgga tatcttgact gatttttcca tggagggcac agttaagccg ctaaaggcat
+     1801 tatccgccaa gtacaatttt ttactcttcg aagacagaaa atttgctgac attggtaata
+     1861 cagtcaaatt gcagtattct gcgggtgtat acagaatagc agaatgggca gacattacga
+     1921 atgcacacgg tgtggtgggc ccaggtattg ttagcggttt gaagcaggcg gcagaagaag
+     1981 taacaaagga acctagaggc cttttgatgt tagcagaatt gtcatgcaag ggctccctat
+     2041 ctactggaga atatactaag ggtactgttg acattgcgaa gagcgacaaa gattttgtta
+     2101 tcggctttat tgctcaaaga gacatgggtg gaagagatga aggttacgat tggttgatta
+     2161 tgacacccgg tgtgggttta gatgacaagg gagacgcatt gggtcaacag tatagaaccg
+     2221 tggatgatgt ggtctctaca ggatctgaca ttattattgt tggaagagga ctatttgcaa
+     2281 agggaaggga tgctaaggta gagggtgaac gttacagaaa agcaggctgg gaagcatatt
+     2341 tgagaagatg cggccagcaa aactaacctc agactcagat tggtgtttca aagatcctca
+     2401 aggcaataga ataacagatt ttgatagtat taataaagaa ttaggtcttg gtagaagaga
+     2461 tgtaaaatta gataaaggtc atgatgattt aattaaatta tgtactgaaa aaatagatag
+     2521 tactATTAAT TGCGTTGCGC TCACTGCCCG CTTTCCAGTC GGGAAACCTG TCGTGCCAGC
+     2581 TGCATTAATG AATCGGCCAA CGCGCGGGGA GAGGCGGTTT GCGTATTGGG CGCTCTTCCG
+     2641 CTTCCTCGCT CACTGACTCG CTGCGCTCGG TCGTTCGGCT GCGGCGAGCG GTATCAGCTC
+     2701 ACTCAAAGGC GGTAATACGG TTATCCACAG AATCAGGGGA TAACGCAGGA AAGAACATGT
+     2761 GAGCAAAAGG CCAGCAAAAG GCCAGGAACC GTAAAAAGGC CGCGTTGCTG GCGTTTTTCC
+     2821 ATAGGCTCCG CCCCCCTGAC GAGCATCACA AAAATCGACG CTCAAGTCAG AGGTGGCGAA
+     2881 ACCCGACAGG ACTATAAAGA TACCAGGCGT TTCCCCCTGG AAGCTCCCTC GTGCGCTCTC
+     2941 CTGTTCCGAC CCTGCCGCTT ACCGGATACC TGTCCGCCTT TCTCCCTTCG GGAAGCGTGG
+     3001 CGCTTTCTCA TAGCTCACGC TGTAGGTATC TCAGTTCGGT GTAGGTCGTT CGCTCCAAGC
+     3061 TGGGCTGTGT GCACGAACCC CCCGTTCAGC CCGACCGCTG CGCCTTATCC GGTAACTATC
+     3121 GTCTTGAGTC CAACCCGGTA AGACACGACT TATCGCCACT GGCAGCAGCC ACTGGTAACA
+     3181 GGATTAGCAG AGCGAGGTAT GTAGGCGGTG CTACAGAGTT CTTGAAGTGG TGGCCTAACT
+     3241 ACGGCTACAC TAGAAGAACA GTATTTGGTA TCTGCGCTCT GCTGAAGCCA GTTACCTTCG
+     3301 GAAAAAGAGT TGGTAGCTCT TGATCCGGCA AACAAACCAC CGCTGGTAGC GGTGGTTTTT
+     3361 TTGTTTGCAA GCAGCAGATT ACGCGCAGAA AAAAAGGATC TCAAGAAGAT CCTTTGATCT
+     3421 TTTCTACGGG GTCTGACGCT CAGTGGAACG AAAACTCACG TTAAGGGATT TTGGTCATGA
+     3481 GATTATCAAA AAGGATCTTC ACCTAGATCC TTTTAAATTA AAAATGAAGT TTTAAATCAA
+     3541 TCTAAAGTAT ATATGAGTAA ACTTGGTCTG ACAGTTACCA ATGCTTAATC AGTGAGGCAC
+     3601 CTATCTCAGC GATCTGTCTA TTTCGTTCAT CCATAGTTGC CTGACTCCCC GTCGTGTAGA
+     3661 TAACTACGAT ACGGGAGGGC TTACCATCTG GCCCCAGTGC TGCAATGATA CCGCGAGACC
+     3721 CACGCTCACC GGCTCCAGAT TTATCAGCAA TAAACCAGCC AGCCGGAAGG GCCGAGCGCA
+     3781 GAAGTGGTCC TGCAACTTTA TCCGCCTCCA TCCAGTCTAT TAATTGTTGC CGGGAAGCTA
+     3841 GAGTAAGTAG TTCGCCAGTT AATAGTTTGC GCAACGTTGT TGCCATTGCT ACAGGCATCG
+     3901 TGGTGTCACG CTCGTCGTTT GGTATGGCTT CATTCAGCTC CGGTTCCCAA CGATCAAGGC
+     3961 GAGTTACATG ATCCCCCATG TTGTGCAAAA AAGCGGTTAG CTCCTTCGGT CCTCCGATCG
+     4021 TTGTCAGAAG TAAGTTGGCC GCAGTGTTAT CACTCATGGT TATGGCAGCA CTGCATAATT
+     4081 CTCTTACTGT CATGCCATCC GTAAGATGCT TTTCTGTGAC TGGTGAGTAC TCAACCAAGT
+     4141 CATTCTGAGA ATAGTGTATG CGGCGACCGA GTTGCTCTTG CCCGGCGTCA ATACGGGATA
+     4201 ATACCGCGCC ACATAGCAGA ACTTTAAAAG TGCTCATCAT TGGAAAACGT TCTTCGGGGC
+     4261 GAAAACTCTC AAGGATCTTA CCGCTGTTGA GATCCAGTTC GATGTAACCC ACTCGTGCAC
+     4321 CCAACTGATC TTCAGCATCT TTTACTTTCA CCAGCGTTTC TGGGTGAGCA AAAACAGGAA
+     4381 GGCAAAATGC CGCAAAAAAG GGAATAAGGG CGACACGGAA ATGTTGAATA CTCATACTCT
+     4441 TCCTTTTTCA ATATTATTGA AGCATTTATC AGGGTTATTG TCTCATGAGC GGATACATAT
+     4501 TTGAATGTAT TTAGAAAAAT AAACAAATAG
+//
